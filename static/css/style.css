@@ -1,0 +1,5 @@
+body {
+     background-image: url("{{ url_for('static', filename='images/c19.jpeg') }}");
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
